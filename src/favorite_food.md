@@ -1,4 +1,8 @@
 # favorite food
 
 apple
-orange
+<<<<<<< HEAD
+
+=======
+banana
+>>>>>>> main
